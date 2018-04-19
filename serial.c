@@ -348,7 +348,7 @@ int main(void)
             //lseek(fd,0,SEEK_SET);  
            eSerial_Read( &pu8Data_ );
            printf("pu8Data_=%x\n",pu8Data_);
-         }
+hahah;sjslsdfhslfjklfdhjhjdf         }
 
    return 0;
-}ajjjaaaaahahah
+}ajjjaaaaahahaggsssh
